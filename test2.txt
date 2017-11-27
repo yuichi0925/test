@@ -1,6 +1,5 @@
 test2.txt
 aaaa
-aaaa1
 bbbb
 cccc
 dddd
