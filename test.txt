@@ -3,3 +3,6 @@ test
 2.ファイルの中身を変更してコミット
 3.ファイルの中身を変更
 aaaaa
+bbbbb
+ccccc
+ddddd
